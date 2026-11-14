@@ -1,0 +1,13 @@
+.{
+    .name = .dss,
+    .version = "0.1.0",
+    .fingerprint = 0x7d81b05df8b5e882,
+    .minimum_zig_version = "0.17.1",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+        "src",
+    },
+}

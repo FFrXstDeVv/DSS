@@ -1,0 +1,14 @@
+# Zig
+.zig-cache/
+zig-out/
+
+# Rust (this shit doesn't work even with the ** for some reason, so i added another one in tui/)
+**target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
